@@ -1,3 +1,4 @@
+# KR2: Stoyanov
 import os
 import socket
 
